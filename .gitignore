@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Environment files
+.env
+
+#Idea files
+.idea
+
+# Parcel.js
+.parcel-cache
+
+# Lockfiles
+yarn.lock

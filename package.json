@@ -1,0 +1,16 @@
+{
+  "name": "front-end-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nigelritfeld/front-end-development.git",
+  "author": "Nigel Ritfeld <nigelritfeld@live.nl>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.7"
+  }
+}
